@@ -1,4 +1,4 @@
-# Facial Expression Recognition using Deep Learning
+# Empath-o-Tron : Face Sentiment Analysis
 
 This project is designed to recognize facial expressions using deep learning models. The code in this project utilizes the Facial Expression Recognition Challenge dataset, which contains 35,000 images categorized into 8 classes representing different facial expressions.
 
